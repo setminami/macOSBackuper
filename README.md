@@ -1,8 +1,8 @@
 # macOSBackuper
 
-[![Stories in Plan](https://badge.waffle.io/setminami/macOSBackuper.png?label=Inbox&title=Backlog)](http://waffle.io/setminami/macOSBackuper)
 [![Stories in Ready](https://badge.waffle.io/setminami/macOSBackuper.png?label=To%20Do&title=To%20Do)](http://waffle.io/setminami/macOSBackuper)
 [![Stories in Progress](https://badge.waffle.io/setminami/macOSBackuper.png?label=In%20Progress&title=In%20Progress)](http://waffle.io/setminami/macOSBackuper)
+[![Stories in Stuck](https://badge.waffle.io/setminami/macOSBackuper.png?label=In%20Stuck&title=Stuck)](http://waffle.io/setminami/macOSBackuper)
 
 作業所内backup環境
 - TimeMachineと連携して、backupイメージ待避
