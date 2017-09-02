@@ -10,11 +10,11 @@
 	<key>KeepAlive</key>
 	<false/>
 	<key>Label</key>
-	<string>setminami.py.rsync-Backup</string>
+	<string>rsyncbackup</string>
 	<key>ProgramArguments</key>
 	<array>
 		<string>/usr/local/bin/python3</string>
-		<string>/Users/setminami/Scripts/backup/rsync-bkup.py</string>
+		<string>/Users/setminami/Scripts/backup/rsync_bkup.py</string>
 	</array>
 	<key>RunAtLoad</key>
 	<true/>
